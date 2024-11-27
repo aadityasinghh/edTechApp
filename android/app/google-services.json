@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "565978315125",
+    "project_id": "edtech-ceb03",
+    "storage_bucket": "edtech-ceb03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565978315125:android:8f7f101377022e61733b3c",
+        "android_client_info": {
+          "package_name": "com.adityasingh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565978315125-rq8p5kujl4oup9j68k7g6vtvqr9dr229.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adityasingh",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "565978315125-fafv1cnccofkjm1r7fe4lok2r7oseqti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIgvbxXo9ug8DHSSwYlxjr3bAfL00FeXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565978315125-fafv1cnccofkjm1r7fe4lok2r7oseqti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
